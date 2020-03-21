@@ -26,10 +26,10 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.1.0",
         "doctrine/orm": "2.6.*",
         "opensolutions/oss-framework": "dev-master",
-        "shardj/zf1-future": "~1.14",
+        "shardj/zf1-future": "~1.17",
         "opensolutions/minify": "1.*",
         "komola/bootstrap-zend-framework": "dev-master",
         "smarty/smarty": "~3.1"
